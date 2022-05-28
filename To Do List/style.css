@@ -1,0 +1,57 @@
+html, body {
+  background-color: wheat;
+  margin: 0;
+  padding: 0;
+}
+
+.done {
+  text-decoration: line-through 3px;
+}
+
+.coolTitle {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+ text-align: center;
+}
+
+#finish-p {
+  font-size: 30px;
+  font-family: monospace;
+}
+
+#userinput {
+  border: solid black;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  background-color: white;
+  padding: 0;
+  border-top: solid black 4px;
+}
+
+li {
+  border-bottom: solid black;
+  padding: 10px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+ul:last-child {
+  border-bottom: none;
+}
+
+button {
+  border: solid;
+  margin: 0 9px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: rgb(199, 188, 188);
+}

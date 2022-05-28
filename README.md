@@ -7,7 +7,6 @@ A basic to do list in the form of groceries. You can add items to the list by ty
 2. After you click the enter button, or press enter on your keyboard, items are added to the list
 ![image](https://user-images.githubusercontent.com/96216965/170841943-a1d52a3e-5ad7-438f-9d70-f1e1ff1298e2.png)
 
-
 3. You can toggle the line through each item, whether you have checked it off your list or not
 ![image](https://user-images.githubusercontent.com/96216965/170841932-f0d2ad75-0271-4598-9fd0-52ebbff3aa54.png)
 
